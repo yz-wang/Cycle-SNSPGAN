@@ -19,9 +19,9 @@ author={Wang, Yongzhen and Yan, Xuefeng and Guan, Donghai and Wei, Mingqiang and
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Cycle-SNSPGAN: Towards Real-World Image Dehazing via Cycle Spectral Normalized Soft Likelihood Estimation Patch GAN}, 
   year={2022},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={23},
+  number={11},
+  pages={20368--20382},
   doi={10.1109/TITS.2022.3170328}
 }
 ```  
